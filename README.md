@@ -5,7 +5,7 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-The official high-performance landing page for **KAYSTEE** — a local-first text expansion and inline AI browser extension for Microsoft Edge.
+The official high-performance landing page for **KAYSTEE** — /ˈkeɪ.sti:/ — a text expansion and inline AI browser extension for Microsoft Edge.
 
 KAYSTEE helps you turn repetitive text into memorable shortcuts and expand them instantly while typing, boosting productivity without sacrificing privacy.
 
