@@ -1,5 +1,5 @@
 /**
- * script.js — SnapType Landing Page · Live Demo
+ * script.js — KAYSTEE Landing Page · Live Demo
  * ════════════════════════════════════════════════════════════════════
  * Self-contained IIFE. No globals exported.
  *
@@ -31,7 +31,7 @@
 
   var SNIPPETS = {
     "/sig":
-      "Best regards,\n\nVincent\nProduct Designer\nSnapType",
+      "Best regards,\n\nVincent\nProduct Designer\nKAYSTEE",
 
     "/thanks":
       "Thanks for reaching out.\n\nI appreciate your message and will get back to you shortly.",
