@@ -1,5 +1,5 @@
 /**
- * support.js — SnapType Landing Page · Support / Buy Me a Coffee
+ * support.js — KAYSTEE Landing Page · Support / Buy Me a Coffee
  * ════════════════════════════════════════════════════════════════════
  * Self-contained IIFE. No globals exported. Mirrors the structure of
  * script.js so the two stay easy to tell apart at a glance.
@@ -34,7 +34,7 @@
     appName: "MoMo",
     qrSrc: "assets/momo-qr.png",
     qrAlt:
-      "MoMo QR code for supporting SnapType \u2014 scan with the MoMo app " +
+      "MoMo QR code for supporting KAYSTEE \u2014 scan with the MoMo app " +
       "or your banking app, then enter any amount you'd like to contribute."
   };
 
@@ -85,7 +85,7 @@
   var heading = el(
     "h2",
     "text-3xl md:text-4xl font-bold text-white",
-    ["\u2615 Support SnapType"]
+    ["\u2615 Support KAYSTEE"]
   );
   heading.id = "support-heading";
 
