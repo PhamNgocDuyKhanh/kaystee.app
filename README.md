@@ -1,13 +1,13 @@
-# SnapType Landing Page
+# KAYSTEE Landing Page
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-The official high-performance landing page for **SnapType** — a local-first text expansion and inline AI browser extension for Microsoft Edge.
+The official high-performance landing page for **KAYSTEE** — a local-first text expansion and inline AI browser extension for Microsoft Edge.
 
-SnapType helps you turn repetitive text into memorable shortcuts and expand them instantly while typing, boosting productivity without sacrificing privacy.
+KAYSTEE helps you turn repetitive text into memorable shortcuts and expand them instantly while typing, boosting productivity without sacrificing privacy.
 
 ---
 
@@ -56,9 +56,9 @@ SnapType helps you turn repetitive text into memorable shortcuts and expand them
 🔗 Related Links
 🧩 Extension Store: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/snaptype-%E2%80%94-text-expander/gmdomkjgpeakipcokgjikaaiiclkdeej)
 
-📦 Extension Repository: SnapType Core Source Code
+📦 Extension Repository: KAYSTEE Core Source Code
 
 ## 🔐 Privacy & License
-Privacy: SnapType is built with a local-first philosophy. This landing page collects zero analytics, tracking cookies, or personal data.
+Privacy: KAYSTEE is built with a local-first philosophy. This landing page collects zero analytics, tracking cookies, or personal data.
 
 License: Distributed under the MIT License. See the main repository for more details.
